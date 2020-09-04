@@ -1,0 +1,7 @@
+C:\Users\bsalb\Desktop\DeleteMe\DeleteMe\DeleteMe\bin\Debug\DeleteMe.exe.config
+C:\Users\bsalb\Desktop\DeleteMe\DeleteMe\DeleteMe\bin\Debug\DeleteMe.exe
+C:\Users\bsalb\Desktop\DeleteMe\DeleteMe\DeleteMe\bin\Debug\DeleteMe.pdb
+C:\Users\bsalb\Desktop\DeleteMe\DeleteMe\DeleteMe\obj\Debug\DeleteMe.csprojAssemblyReference.cache
+C:\Users\bsalb\Desktop\DeleteMe\DeleteMe\DeleteMe\obj\Debug\DeleteMe.csproj.CoreCompileInputs.cache
+C:\Users\bsalb\Desktop\DeleteMe\DeleteMe\DeleteMe\obj\Debug\DeleteMe.exe
+C:\Users\bsalb\Desktop\DeleteMe\DeleteMe\DeleteMe\obj\Debug\DeleteMe.pdb
