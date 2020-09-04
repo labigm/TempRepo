@@ -16,9 +16,6 @@ namespace DeleteMe
             // 3 -> 0011
             // 4 -> 0100
             int varA = 36; // Declaring the variable
-            varA = varA + 1;
-            varA *= 2;
-            varA -= 1;
             varA++;
             Console.WriteLine("My Age " + varA);
         }
